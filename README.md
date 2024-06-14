@@ -14,6 +14,10 @@ This project aims to analyse the business performance for the fiscal year 2020 b
 - Identify the brand and branch with the highest sales volume.
 - Compare sales performance across different branches.
 
+#### Dataset
+
+[Car Sales Project Dataset.xlsx](https://github.com/user-attachments/files/15842705/Car.Sales.Project.Dataset.xlsx)
+
 #### Tools and Skill Demonstration
 - Microsoft Excel (EDA)
 -  Power Query (Cleaning and Modelling)
@@ -26,16 +30,35 @@ This project aims to analyse the business performance for the fiscal year 2020 b
 - Age Data type was changed from text to date before ETA (Extract, Transform and Load).
 
 ####  Modelling
-- Facts and dimensions table were created for Gender, Age, State, Branches, Month, Sales Date, and Car Model after (ETL) 
-- Analysis and Visualization
+- Facts and dimensions table were created for Gender, Age, State, Branches, Month, Sales Date, and Car Model after (ETL)
+
+#### Analysis and Visualization
+
+![Dashboard](https://github.com/Taiwo-Dataanalyst/Car_Sales/assets/172149862/e692ca97-6dce-447b-9404-9d61e147572e)
+
 - Ford was the highest Model Sold with Total Volume of (368), ahead of Toyota (362), Honda (203), Nissan (201), Hyundai (198), Chevrolet (147), Mercedes-Benz (5), Kia (4), and Volkswagen (3).
+- 
+![highest model sold](https://github.com/Taiwo-Dataanalyst/Car_Sales/assets/172149862/62c1b2b7-b406-4a2d-a4cd-3d00fca867d6)
+
 - 89.3% (Approx. 90%) of the total sales came from 5 brands (Ford, Honda, Hyundai, Nissan, Toyota).
+  
 - There is a relationship between the number of models in a brand, and the volume of sales in that brand. That is the brand with more than one model sold more compared to those with just one model.
+  
 - More Female bought more cars than male
+  
+  ![gender](https://github.com/Taiwo-Dataanalyst/Car_Sales/assets/172149862/51ea0d3c-76c4-4c61-9206-66677f630e9e)
+
 - 26 – 35 age group patronize the business more than other age group
+  
+  ![Age range](https://github.com/Taiwo-Dataanalyst/Car_Sales/assets/172149862/bb2a1ce6-e9da-4a67-97a2-ddc2c1dba577)
+
 - Lagos State has the highest volume of sales and Ekiti with the lowest volume of sales
+  
+  ![highest state](https://github.com/Taiwo-Dataanalyst/Car_Sales/assets/172149862/20ec3171-dc68-4cfb-8453-59373a411d5b)
+
 - December has the highest volume of sales.
 
+![Highest Month sales](https://github.com/Taiwo-Dataanalyst/Car_Sales/assets/172149862/a4fdca30-0eab-4c75-bb08-ce3cb18dee99)
 
 #### Conclusion and recommendations
 
