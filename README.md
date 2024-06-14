@@ -1,9 +1,12 @@
-# Car_Sales
+## Car_Sales portfolio Project
 
-## Introduction
+## Process
+
+
+#### Introduction
 This project aims to analyse the business performance for the fiscal year 2020 by examining the datasets. Through a comprehensive analysis, this project seek to uncover critical insights that will inform strategic decisions and highlight areas of success and opportunities for improvement. By leveraging data analytics techniques, this project will provide a detailed overview of the company's sales performance, market trends, and customer behaviour.
 
-## Problem Statement: 
+#### Problem Statement: 
 - To identify the Sales Performance over the course of the fiscal year 2020,
 - To uncover trends in Sales Volume, 
 - The Month with the Highest volume of Sales.
@@ -11,18 +14,18 @@ This project aims to analyse the business performance for the fiscal year 2020 b
 - Identify the brand and branch with the highest sales volume.
 - Compare sales performance across different branches.
 
-## Skill Demonstration
+#### Skill Demonstration
 - Microsoft Excel (EDA)
 -  Power Query (Cleaning and Modelling)
 -  Power BI for Visualization (DAX).
 
-## Data Transformation
+#### Data Transformation
 - In the Gender column some spelling mistakes were discovered and I corrected it before ETL
 - An outlier (2) in the Age column was corrected using the Average Age.
 - Spelling errors in State column was also corrected.
 - Age Data type was changed from text to date before ETA (Extract, Transform and Load).
 
-##Modelling
+####  Modelling
 - Facts and dimensions table were created for Gender, Age, State, Branches, Month, Sales Date, and Car Model after (ETL) 
 - Analysis and Visualization
 - Ford was the highest Model Sold with Total Volume of (368), ahead of Toyota (362), Honda (203), Nissan (201), Hyundai (198), Chevrolet (147), Mercedes-Benz (5), Kia (4), and Volkswagen (3).
@@ -34,7 +37,7 @@ This project aims to analyse the business performance for the fiscal year 2020 b
 - December has the highest volume of sales.
 
 
-## Conclusion and recommendations
+#### Conclusion and recommendations
 
 - Focus on High-Performing Brands:
 The data indicates that 89.3% of the total sales came from five brands: Ford, Toyota, Honda, Nissan, and Hyundai. Concentrating marketing efforts, inventory, and promotions on these high-performing brands can maximize sales and profitability. Additionally, maintaining a diverse range of models for these brands will likely continue to drive high sales volumes.
@@ -54,5 +57,5 @@ Lagos State, having the highest volume of sales, should continue to be a primary
 - Seasonal Promotions:
 December has the highest sales volume, indicating a seasonal peak, possibly due to end-of-year bonuses, holiday purchases, and new model releases. Leveraging this trend, dealerships should plan major sales events, promotions, and new model launches in December to capitalize on increased consumer spending during this period.
 
-## Conclusion:
+#### Conclusion:
 The analysis reveals several key insights that can drive strategic decisions and improve overall sales performance. The dominance of a few brands in total sales volume highlights the importance of focusing on top-performing brands and expanding their model offerings. The significant role of female consumers and the 26-35 age demographic suggests targeted marketing strategies to cater to these groups. Geographical sales trends emphasize the need for localized marketing and sales efforts, particularly focusing on high-volume areas like Lagos State while finding innovative ways to boost sales in lower-volume areas. Lastly, recognizing the seasonal peak in December can guide the planning of promotional activities to maximize end-of-year sales. By implementing these recommendations, the business can enhance its market position, increase sales, and improve customer satisfaction.
