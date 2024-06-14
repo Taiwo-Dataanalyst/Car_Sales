@@ -1,9 +1,9 @@
 ## Car_Sales portfolio Project
 
-## Process
+### Car Sales Analysis Process
 
 
-#### Introduction
+#### Project Overview
 This project aims to analyse the business performance for the fiscal year 2020 by examining the datasets. Through a comprehensive analysis, this project seek to uncover critical insights that will inform strategic decisions and highlight areas of success and opportunities for improvement. By leveraging data analytics techniques, this project will provide a detailed overview of the company's sales performance, market trends, and customer behaviour.
 
 #### Problem Statement: 
@@ -14,7 +14,7 @@ This project aims to analyse the business performance for the fiscal year 2020 b
 - Identify the brand and branch with the highest sales volume.
 - Compare sales performance across different branches.
 
-#### Skill Demonstration
+#### Tools and Skill Demonstration
 - Microsoft Excel (EDA)
 -  Power Query (Cleaning and Modelling)
 -  Power BI for Visualization (DAX).
